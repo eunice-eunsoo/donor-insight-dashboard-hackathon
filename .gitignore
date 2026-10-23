@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+# Raw source data contains personal information - keep it out of git
+data/
+*.xlsx
+*.jsonl
+*.csv
